@@ -1,14 +1,19 @@
 # pisearch
 
+在 π 的**前 5000 万**位中搜索指定数字的位置，以及输出指定位数处的数字。
+
 Linux下测试：
 
-```c
+```shell
 g++ printpi.cpp  -o test
 ```
 
 编译运行：
 
-```c
+```shell
 gcc -o printpi printpi.c
 ./printpi
 ```
+
+参考链接:
+[Pi-Search](http://www.angio.net/pi/bigpi.cgi)
