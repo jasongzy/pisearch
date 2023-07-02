@@ -2,8 +2,6 @@
 
 从 π 的小数点后 **1,000,000,000** 位中搜索指定的数字串位置
 
- Demo: [快速寻找 8 位生日](https://jasongzy.com/pi-search.php)
-
 ## π 的数据来源
 
 使用 [y-cruncher](http://www.numberworld.org/y-cruncher/) 生成了包含 10 亿位十进制数字字符的文本文档 `./data/Pi - Dec - Chudnovsky.txt`（约 950 MB，未包含在仓库内）
